@@ -1,0 +1,17 @@
+@import '../src/Components1/vars.css';
+
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+body{
+  background:  #04152d;
+  width:100vw;
+  height:100vh;
+  min-height: 100%;
+}
+a{
+  text-decoration: none;
+  color:var(--clr-text);
+}
